@@ -225,7 +225,7 @@ function Navbar() {
           {/* Right */}
 
           <a
-            href="mailto:contact@structureheads.com"
+            href="mailto:gaurav@structureheads.com"
             className="hidden md:flex items-center gap-2 italic text-[15px] hover:text-yellow-400"
           >
             <Mail size={15} />
