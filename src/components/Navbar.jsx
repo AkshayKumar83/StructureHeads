@@ -177,7 +177,7 @@
 import { useState } from "react";
 import { MapPin, Phone, Mail, Menu, X } from "lucide-react";
 import { NavLink } from "react-router-dom";
-import NavbarLogo from "../assets/NavbarLogo.jpeg";
+import NavbarLogo from "../assets/Navbarlogo.jpeg";
 
 const navLinks = [
   { name: "Home", path: "/" },
